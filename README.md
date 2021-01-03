@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
+- This site will be notes taken from the following classes in the Table of Contents.
 
-You can use the [editor on GitHub](https://github.com/adard2002/Code201ReadingNotes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adard2002/Code201ReadingNotes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Table of Contents
+[Class-01](01-Reading.md)
+[Class-02](02-Reading.md)
+[Class-03](03-Reading.md)
+[Class-04](04-Reading.md)
+[Class-05](05-Reading.md)
+[Class-06](06-Reading.md)
+[Class-07](07-Reading.md)
+[Class-08](08-Reading.md)
+[Class-09](09-Reading.md)
+[Class-10](10-Reading.md)
+[Class-11](11-Reading.md)
+[Class-12](12-Reading.md)
+[Class-13](13-Reading.md)
+[Class-14](14-Reading.md)
+[Class-15](15-Reading.md)
